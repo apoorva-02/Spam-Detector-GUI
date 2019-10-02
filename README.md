@@ -13,4 +13,4 @@ PYTHON DEPENDENCIES:
 	
 It uses Random Forest Classifier.
 
-EDIT:This Project Will be really effective if implemented using web browser extension.
+This Project Will be  implemented on a  web browser extension.
