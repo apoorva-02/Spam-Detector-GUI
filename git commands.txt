@@ -1,0 +1,8 @@
+cd directoryaddres
+git status
+git add .	// to add new file
+git commit -m "message to be printed"
+git push
+
+git pull
+
