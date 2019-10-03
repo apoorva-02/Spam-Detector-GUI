@@ -1,3 +1,5 @@
+# The graphical user interface of the span detector
+
 #!/usr/bin/env python
 # coding: utf-8
 
